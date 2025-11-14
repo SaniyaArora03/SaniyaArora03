@@ -49,9 +49,13 @@ Passionate about building **scalable, data-driven systems** with seamless fronte
 - Features: Real-time physiotherapy exercise monitoring (95%+ accuracy), JWT authentication  
 - [GitHub Link](https://github.com/SaniyaArora03/rehabease)
 
-### **Movie Recommendation System**
-- Tech Stack: Python, Streamlit, ML  
-- Features: Personalized movie recommendations using ML, hosted on Streamlit  
+### **Emotion Based Vibe Controlling and Crowd Management System**
+- Tech Stack: Python, Mediapipe,Pygame,   
+- Features:
+- Real-time AI system that reads crowd emotions and movement to calculate the overall vibe.
+- Automatically adapts lighting themes and music playlists based on live audience energy.
+- Generates a live heatmap of stall crowds, helping organizers track congestion instantly.
+-  [GitHub Link](https://github.com/SaniyaArora03/Just_Vibeee)
 
 
 ---
