@@ -58,15 +58,15 @@ Passionate about building **scalable, data-driven systems** with seamless fronte
 -  [GitHub Link](https://github.com/SaniyaArora03/Just_Vibeee)
 
 ### **Adaptive & Explainable AI Proctoring System**
--Tech Stack: Python, OpenCV, MediaPipe, Scikit-learn
--Features:
--Real-time AI proctoring system that learns personalized behavioral baselines for each candidate.
--Detects cheating using unsupervised anomaly detection on gaze and head-pose patterns over time.
--Reduces false alerts through rolling-window smoothing and confidence-based decision logic.
--Combines vision, audio activity, and system events for reliable multi-modal cheating detection.
--Generates explainable cheating risk timelines and event logs for human review.
--  [GitHub Link](https://github.com/SaniyaArora03/AI_Proctoring.git)
----
+
+- **Tech Stack:** Python, OpenCV, MediaPipe, Scikit-learn  
+- **Features:**  
+- Real-time AI proctoring system that learns personalized behavioral baselines for each candidate.  
+- Detects cheating using unsupervised anomaly detection on gaze and head-pose patterns over time.  
+- Reduces false alerts through rolling-window smoothing and confidence-based decision logic.  
+- Combines vision, audio activity, and system events for reliable multi-modal cheating detection.  
+- Generates explainable cheating risk timelines and event logs for human review.  
+- [GitHub Link](https://github.com/SaniyaArora03/AI_Proctoring.git)
 
 ## 📊 GitHub Stats
 
