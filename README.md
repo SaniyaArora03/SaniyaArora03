@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Saniya Arora
 
-🎓 **B.E Computer Engineering** | 💻 **Full Stack Developer (MERN)** | 🤖 **ML Enthusiast**
+🎓 **B.E Computer Engineering** | 💻 **Full Stack Developer (MERN)** | 🤖 **ML and Computer Vision Enthusiast** 
 
 ---
 
