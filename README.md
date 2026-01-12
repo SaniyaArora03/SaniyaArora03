@@ -68,6 +68,13 @@ Passionate about building **scalable, data-driven systems** with seamless fronte
 - Generates explainable cheating risk timelines and event logs for human review.  
 - [GitHub Link](https://github.com/SaniyaArora03/AI_Proctoring.git)
 
+### **Brain Tumor Segmentation – Deep Learning**
+- Tech Stack: Python, PyTorch, NumPy, HDF5, Matplotlib  
+- Model: U-Net (encoder–decoder architecture for medical image segmentation)
+- Features: Pixel-level tumor segmentation from multi-modal MRI scans, explainable visual overlays
+- Trained on the BraTS benchmark dataset used in medical imaging research  
+- [GitHub Link](https://github.com/SaniyaArora03/Brain_Tumour_Detector.git)
+
 ## 📊 GitHub Stats
 
 ![Saniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaniyaArora03&show_icons=true&theme=tokyonight)  
