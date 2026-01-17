@@ -75,6 +75,13 @@ Passionate about building **scalable, data-driven systems** with seamless fronte
 - Trained on the BraTS benchmark dataset used in medical imaging research  
 - [GitHub Link](https://github.com/SaniyaArora03/Brain_Tumour_Detector.git)
 
+### **FixItNow – Smart Service Request Platform-MERN**
+- Tech Stack: React 19 (Vite), Node.js, Express.js, MongoDB, JWT  
+- Architecture: Role-based MERN application with backend-driven job assignment
+- Features: Customer service requests with live location, technician dashboards, secure job lifecycle management
+- Focus: Real-world system design, authentication correctness, scalable backend workflows  
+- [GitHub Link](https://github.com/SaniyaArora03/Fix_It_Now.git)
+
 ## 📊 GitHub Stats
 
 ![Saniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaniyaArora03&show_icons=true&theme=tokyonight)  
