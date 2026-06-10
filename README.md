@@ -38,6 +38,31 @@ Passionate about building **scalable, data-driven systems** with seamless fronte
 
 ## 🚀 Projects
 
+### **AI Code Reviewer – Intelligent Code Analysis Platform**
+- Tech Stack: React, FastAPI, CodeBERT, Random Forest, FAISS, DeepSeek LLM 
+- Architecture: Multi-stage AI pipeline leveraging semantic embeddings, defect classification, vector retrieval, and LLM-based reasoning
+- Features: Real-time code review, bug prediction, contextual fix suggestions, retrieval of similar code patterns, and Chrome Extension support
+- Focus: Retrieval-Augmented Generation (RAG), machine learning, developer productivity, and scalable AI-powered software tooling 
+- [GitHub Link](https://github.com/SaniyaArora03/AI-Code-Reviewer)
+
+### **FixItNow – Smart Service Request Platform-MERN**
+- Tech Stack: React 19 (Vite), Node.js, Express.js, MongoDB, JWT  
+- Architecture: Role-based MERN application with backend-driven job assignment
+- Features: Customer service requests with live location, technician dashboards, secure job lifecycle management
+- Focus: Real-world system design, authentication correctness, scalable backend workflows  
+- [GitHub Link](https://github.com/SaniyaArora03/Fix_It_Now.git)
+
+### **Adaptive & Explainable AI Proctoring System**
+
+- **Tech Stack:** Python, OpenCV, MediaPipe, Scikit-learn  
+- **Features:**  
+- Real-time AI proctoring system that learns personalized behavioral baselines for each candidate.  
+- Detects cheating using unsupervised anomaly detection on gaze and head-pose patterns over time.  
+- Reduces false alerts through rolling-window smoothing and confidence-based decision logic.  
+- Combines vision, audio activity, and system events for reliable multi-modal cheating detection.  
+- Generates explainable cheating risk timelines and event logs for human review.  
+- [GitHub Link](https://github.com/SaniyaArora03/AI_Proctoring.git)
+
 ### **Job Tracker – MERN Stack**
 - Tech Stack: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, REST API  
 - Features: Login system, personalized dashboard, CRUD functionality, smart filters  
@@ -57,30 +82,9 @@ Passionate about building **scalable, data-driven systems** with seamless fronte
 - Generates a live heatmap of stall crowds, helping organizers track congestion instantly.
 -  [GitHub Link](https://github.com/SaniyaArora03/Just_Vibeee)
 
-### **Adaptive & Explainable AI Proctoring System**
 
-- **Tech Stack:** Python, OpenCV, MediaPipe, Scikit-learn  
-- **Features:**  
-- Real-time AI proctoring system that learns personalized behavioral baselines for each candidate.  
-- Detects cheating using unsupervised anomaly detection on gaze and head-pose patterns over time.  
-- Reduces false alerts through rolling-window smoothing and confidence-based decision logic.  
-- Combines vision, audio activity, and system events for reliable multi-modal cheating detection.  
-- Generates explainable cheating risk timelines and event logs for human review.  
-- [GitHub Link](https://github.com/SaniyaArora03/AI_Proctoring.git)
 
-### **Brain Tumor Segmentation – Deep Learning**
-- Tech Stack: Python, PyTorch, NumPy, HDF5, Matplotlib  
-- Model: U-Net (encoder–decoder architecture for medical image segmentation)
-- Features: Pixel-level tumor segmentation from multi-modal MRI scans, explainable visual overlays
-- Trained on the BraTS benchmark dataset used in medical imaging research  
-- [GitHub Link](https://github.com/SaniyaArora03/Brain_Tumour_Detector.git)
 
-### **FixItNow – Smart Service Request Platform-MERN**
-- Tech Stack: React 19 (Vite), Node.js, Express.js, MongoDB, JWT  
-- Architecture: Role-based MERN application with backend-driven job assignment
-- Features: Customer service requests with live location, technician dashboards, secure job lifecycle management
-- Focus: Real-world system design, authentication correctness, scalable backend workflows  
-- [GitHub Link](https://github.com/SaniyaArora03/Fix_It_Now.git)
 
 ## 📊 GitHub Stats
 
