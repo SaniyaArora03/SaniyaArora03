@@ -29,12 +29,13 @@ Currently exploring Generative AI, LLM-powered applications, and scalable backen
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
-**Machine Learning & Tools:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge)  
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00B0FF?style=for-the-badge)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)  
+**AI/ML & Generative AI:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+
 
 ---
 
