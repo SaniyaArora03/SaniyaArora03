@@ -1,12 +1,13 @@
 # Hi there 👋, I'm Saniya Arora
 
-🎓 **B.E Computer Engineering** | 💻 **Full Stack Developer (MERN)** | 🤖 **ML and Computer Vision Enthusiast** 
+🎓 **B.E Computer Engineering** | 💻 **MERN Stack Developer** | 🤖 **AI & GenAI Developer** 
 
 ---
 
 ## 🌟 About Me
-Full Stack Developer skilled in **MERN stack**, **REST APIs**, and **applied Machine Learning** for real-world projects.  
-Passionate about building **scalable, data-driven systems** with seamless frontend-backend integration.  
+Computer Engineering student with experience building full-stack applications, AI-powered developer tools, and intelligent software systems. Passionate about applying Machine Learning, Retrieval-Augmented Generation (RAG), and modern software engineering principles to solve real-world problems.
+
+Currently exploring Generative AI, LLM-powered applications, and scalable backend architectures while actively contributing to open-source projects and competitive programming. 
 
 📍 Jalandhar, Punjab | 📧 [sarora1_be23@thapar.edu](mailto:sarora1_be23@thapar.edu)  
 
@@ -15,10 +16,11 @@ Passionate about building **scalable, data-driven systems** with seamless fronte
 ## 🛠 Skills
 
 **Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 
 **Backend & Databases:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
