@@ -54,6 +54,7 @@ Currently exploring Generative AI, LLM-powered applications, and scalable backen
 - Features: Customer service requests with live location, technician dashboards, secure job lifecycle management
 - Focus: Real-world system design, authentication correctness, scalable backend workflows  
 - [GitHub Link](https://github.com/SaniyaArora03/Fix_It_Now.git)
+- Link: https://fix-it-now-1.onrender.com
 
 ### **Adaptive & Explainable AI Proctoring System**
 
