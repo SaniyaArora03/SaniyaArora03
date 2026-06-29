@@ -48,6 +48,14 @@ Currently exploring Generative AI, LLM-powered applications, and scalable backen
 - Focus: Retrieval-Augmented Generation (RAG), machine learning, developer productivity, and scalable AI-powered software tooling 
 - [GitHub Link](https://github.com/SaniyaArora03/AI-Code-Reviewer)
 
+### **ReviewLoad – Smart GitHub Reviewer Recommendation Platform**
+- Tech Stack: React, Node.js, Express.js, MongoDB, GitHub REST API, Axios 
+- Architecture: Built a modular MERN application with layered architecture (Controllers, Services, Algorithms) integrating GitHub APIs and a multi-factor recommendation engine.
+- Features: Automated repository analysis, pull request dashboard, developer expertise mapping via commit history, review load computation, fairness and burnout estimation, and intelligent reviewer recommendation.
+- Focus: Full-stack development, repository analytics, recommendation systems, RESTful API design, software engineering productivity, and GitHub workflow automation. 
+- [GitHub Link](https://github.com/SaniyaArora03/GitHub-PR-Reviewer)
+- Link: https://github-pr-reviewer-frontend.onrender.com
+
 ### **FixItNow – Smart Service Request Platform-MERN**
 - Tech Stack: React 19 (Vite), Node.js, Express.js, MongoDB, JWT  
 - Architecture: Role-based MERN application with backend-driven job assignment
