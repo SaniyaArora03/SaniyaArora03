@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Saniya Arora
 
 🎓 **B.E Computer Engineering** | 💻 **MERN Stack Developer** | 🤖 **AI & GenAI Developer** 
+
 **My Portfolio: https://portfolio-saniyaarora.onrender.com**
 
 ---
